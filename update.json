@@ -1,8 +1,8 @@
 {
-  "version": "1.3.14",
-  "file": "math-progress-v1.3.14.enc",
-  "sha256": "8b70cef26d2c1d880ef8228fce4773ab01025f0d807e01b949336e6fc461ca96",
+  "version": "1.3.15",
+  "file": "math-progress-v1.3.15.enc",
+  "sha256": "a2b524f8eed34a9fdbe6f76e1e22465e41c53402022ee0e5f557f846ede00b2c",
   "encrypted": true,
   "notes": "새 버전이 배포되었습니다. 업데이트하여 새 기능을 사용해보세요.",
-  "publishedAt": "2026-08-31T12:51:40.551Z"
+  "publishedAt": "2026-08-31T13:03:40.821Z"
 }
