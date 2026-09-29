@@ -1,11 +1,11 @@
 {
-  "version": "1.3.34",
-  "file": "math-progress-v1.3.34.enc",
-  "sha256": "bcf16be1831fa0596abc1657659d8d3bb4abc44d3c672b8b09089dc9fe9ef7b9",
-  "buildId": "bca40a493d9b0a69f28d7d569bbd83cffe156518eea2613884adb1a214325535",
+  "version": "1.3.35",
+  "file": "math-progress-v1.3.35.enc",
+  "sha256": "a0ff0004e717040c59f12c2c15a02eb32453fb11ee1ae2f1c0f2dff93411585b",
+  "buildId": "4bc4def27411145874926e8a59f679b92dd6428324acd1ee4b8b507acd164963",
   "encrypted": true,
   "notes": "새 버전이 배포되었습니다. 실제 프로그램 파일과 라이선스 권한을 함께 검증하여 적용합니다.",
-  "publishedAt": "2026-09-29T11:28:02.717Z",
-  "signature": "89c781b73ccbb540b51e872275ce6e5e4edcc465a5ab0bf6726f51fc234bae97f0e90c0185f5cb37da1cb406e0be143e94b996e9f7b3e1ed5f6bd55a8c969901",
-  "buildSignature": "e6299a2d22ce16ad3f4b5dc77ccf013e4ba7b32545fbd94702d256ac428623bf2599478ee9aa5465b450c7458a2152cfe3c9635de8ab11a0b9baf4bc33b1d80c"
+  "publishedAt": "2026-09-29T12:00:29.143Z",
+  "signature": "ff8e528bc0ec0837c54e719bb2061ab96424056548adb86f73f42be414719e98dd43c10c0e13f6a4dd3e175e9bab0e465c0f306f96e7baa5c26c05ea7716f702",
+  "buildSignature": "a960c1f2d296b260095047e39c5d5b30844913a2645fa11f7a47034ebda50819daf4451a98c48abf035c9624e8a464ecae9f07ef43d5120c05ea4e0f25a48b0b"
 }
